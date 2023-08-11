@@ -1,4 +1,9 @@
+#### [号卡中心-专注优质号卡套餐服务](https://hk.bjjii.com/?p=ookk)
+<a href="https://hk.bjjii.com/?p=ookk">
+<img src="https://img1.131213.xyz/file/9c3e8df16c352c05233ed.png" height="50%" width="50%" /></a>
 
+
+---
 ### Demo
 
 [https://chatai.451024.xyz](https://chatai.451024.xyz)
@@ -42,9 +47,7 @@ https://openai-proxy-api.pages.dev/api
 
 ## 使用CloudFlare Pages进行中转
 
-### 1、部署中转API+ ~~Openai API余额查询~~
-
-> Openai API余额查询接口已失效
+### 1、部署中转API+ Openai API余额查询 (使用sess-xxxx的Authorization查询，有效时间未知)
 
 > [官方文档](https://developers.cloudflare.com/pages)
 
